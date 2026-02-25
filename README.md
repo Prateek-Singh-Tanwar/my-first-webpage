@@ -1,4 +1,4 @@
-#🌟 My First Website
+#My_First_Website
 
 Hi! I made this simple HTML project as my first step into web development.
 It has headings, paragraphs, and a button that shows a fun message.
